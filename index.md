@@ -7,7 +7,7 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:SMMorgan@student.csuniv.edu?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Python Web Scraper | CSCI 301](project1)
+### [Python Web Scraper | CSCI 301](project1.md)
 
 ![Project 1 Thumbnail Name](images/python.jpg)
 
