@@ -31,20 +31,20 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [The Ethics of Automatic Software Testing](/pdf/AutoSoftware.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class:** Data Structure Analysis
+-   **Grade:** A
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [The Ethics of Privacy and Data Handling in Computer Science](/pdf/dataProtection.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class:** Object Oriented Programming
+-   **Grade:** A
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [The Ethics of Artificial Intelligence](/pdf/AI.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class:** Survey of Scripting Languages
+-   **Grade:** A
 
 ---
 
