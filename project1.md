@@ -6,7 +6,7 @@ Python Web Scraper
 -   **Class:** Survey of Scripting Languages
 -   **Grade:** A
 -   **Language(s):** Python 
--   **Source Code Repository:** [features/mastering-markdown](https://github.com/Satchmmorgan/CSCI-301-code-repository.git)  
+-   **Source Code Repository:** [Scripting-Languages](https://github.com/Satchmmorgan/CSCI-301-code-repository.git)  
     (Please [email me](mailto:SMMorgan@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
