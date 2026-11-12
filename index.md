@@ -12,17 +12,17 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/python.jpg)
 
 ---
-### [Minimum Overlap Coverage | CSCI 315](project1)
+### [Minimum Overlap Coverage | CSCI 315](project2.md)
 
 ![Project 2 Thumbnail Name](images/overlap.jpg)
 
 ---
-### [Journey to Cura | CSCI 325](project1)
+### [Journey to Cura | CSCI 325](project3.md)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [UDP Buddy Chat | CSCI 332](project1)
+### [UDP Buddy Chat | CSCI 332](project4.md)
 
 ![Project 4 Thumbnail Name](images/buddy.jpg)
 
