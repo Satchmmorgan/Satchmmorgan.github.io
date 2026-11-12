@@ -9,12 +9,12 @@ Programming Projects
 ---
 ### [Python Web Scraper | CSCI 301](project1)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 1 Thumbnail Name](images/python.jpg)
 
 ---
 ### [Minimum Overlap Coverage | CSCI 315](project1)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 2 Thumbnail Name](images/overlap.jpg)
 
 ---
 ### [Journey to Cura | CSCI 325](project1)
@@ -24,7 +24,7 @@ Programming Projects
 ---
 ### [UDP Buddy Chat | CSCI 332](project1)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 4 Thumbnail Name](images/buddy.jpg)
 
 ---
 
