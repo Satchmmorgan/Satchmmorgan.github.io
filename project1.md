@@ -11,7 +11,7 @@ Python Web Scraper
 
 ## Project description
 
-This project uses the Beautiful Soup python Library to scrape a webpage for recently uploaded job openings for Python developers. 
+This project uses the Beautiful Soup python Library to scrape the offcial python webpage for recently uploaded job openings for Python developers. 
 
 ## How to compile and run the program
 
