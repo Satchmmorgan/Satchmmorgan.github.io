@@ -6,7 +6,7 @@ The Journey to Cura
 -   **Class:** Object Oriented Programming
 -   **Grade:** A
 -   **Language(s):** Java 
--   **Source Code Repository:** [features/mastering-markdown](https://github.com/csu-cs/csci325_TeamRocket.git)  
+-   **Source Code Repository:** [TeamRocket](https://github.com/csu-cs/csci325_TeamRocket.git)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
