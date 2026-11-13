@@ -33,7 +33,7 @@ python3 final.py
 
 The program uses a CLI (command line interface) to distribute output to the user strictly through the terminal. The terminal output of the program is displayed below
 
-![screenshot](images/pythonScraper.jpg)  
+![screenshot](images/pythonScraper.png)  
 Fig 1. The terminal output after a successful run
 
 
