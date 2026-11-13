@@ -1,48 +1,49 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Minimum Coverage Overlap
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Class:** Data Structure Analysis
+-   **Grade:** A
+-   **Language(s):** C++ 
+-   **Source Code Repository:** [Data Structures](https://github.com/Satchmmorgan/CSCI-315-2026-Spring.git)  
+    (Please [email me](mailto:SMMorgan@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This project was made as a proposed solution to the Computer Science "Set-Cover" problem. The program is designed to test multiple data sets of varying sizes to find the most efficient union of sets to cover the proposed coverage set. Furthermore, the program also contains the necessary tools to analyze the time complexity of the algorithm, and output the data in a format that can be graphed via GNUplot.
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
+The project itself includes a makefile to automate compilation flags. To run this program, you will need to have installed Make, GNUplot, and a c++ compiler (originally compiled and ran with g++).
+
+1. Install the c++ compiler and gnuplot.
+
+2. Navigate to the projects directory, and run with the following commands
 
 ```bash
-cd ./project
-python setup.py
+make run
+make small-timings
 ```
 
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
+3. After the timings are ran, the plot should open within your VScode. If not, it can be viewed with
+   
+```bash
+code data/small30-timings.pdf
+```
+
 
 ## UI Design
+This program is made using a Command Line Interface, and all arguments are passed through the terminal. However, the program also features visualization using created graphs that plot the timing information as the size of the data increases.
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
-
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
-
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+![screenshot](images/dummy_thumbnail.jpg)
+Fig 1. The output of a regular run of the program
 
 ![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
-
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+Fig 2. The plotted graph of the small timings.
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Timing information will vary from system to system, due to differences in processing power, memory, etc.
 
 [Back to Portfolio](./)
