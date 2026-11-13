@@ -36,10 +36,10 @@ code data/small30-timings.pdf
 ## UI Design
 This program is made using a Command Line Interface, and all arguments are passed through the terminal. However, the program also features visualization using created graphs that plot the timing information as the size of the data increases.
 
-![screenshot](images/dummy_thumbnail.jpg)
+![screenshot](images/overlapOutput.PNG)
 Fig 1. The output of a regular run of the program
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/timings.PNG)  
 Fig 2. The plotted graph of the small timings.
 
 ## 3. Additional Considerations
