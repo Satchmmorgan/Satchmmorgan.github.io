@@ -19,7 +19,7 @@ Programming Projects
 ---
 ### [Journey to Cura | CSCI 325](project3.md)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 3 Thumbnail Name](images/Cura.PNG)
 
 ---
 ### [UDP Buddy Chat | CSCI 332](project4.md)
