@@ -51,7 +51,7 @@ Ethics Papers
 Presentations
 -------------
 
-### [Journey to Cura live demo](/pdf/journey to cure demo.pptx)
+### [Journey to Cura live demo](/pdf/curaDemo.pptx)
 
 - **Class:** CSCI 325 Object Oriented Programming
 - **Grade:** A
