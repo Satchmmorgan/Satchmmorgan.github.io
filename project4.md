@@ -29,7 +29,7 @@ This program is ran with a Command Line Interface, so messages are both sent and
 ![screenshot](images/newComp2.PNG)  
 Fig 1. The perspective of one computer during a chat.
 
-![screenshot](images/computer1.PNG)  
+![screenshot](images/computer1.png)  
 Fig 2. The same chat from the second computers perspective.
 
 ## 3. Additional Considerations
