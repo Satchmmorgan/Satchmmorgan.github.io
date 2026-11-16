@@ -9,9 +9,8 @@ description: > # your text below (remove <br /> elements if you don't need line 
   <br /><br />
   <a href="https://example.com/resume">View My Resume</a>
   <br /><br />
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a>
 repository: "Satchmmorgan/Satchmmorgan.github.io"
-github_username:  username # update with your username
+github_username:  Satchmmorgan # update with your username
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 
 # Build setting
