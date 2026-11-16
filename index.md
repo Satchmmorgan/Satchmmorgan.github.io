@@ -51,10 +51,10 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Journey to Cura live demo](/pdf/journey to cure demo.pptx)
 
-- **Class:** 
-- **Grade:**
+- **Class:** Object Oriented Programming
+- **Grade:** A
 
 
 ### [Presentation 2 Title](/pdf/sample_presentation.pdf)
