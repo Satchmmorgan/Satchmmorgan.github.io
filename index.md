@@ -33,17 +33,17 @@ Ethics Papers
 
 ### [The Ethics of Automatic Software Testing](/pdf/AutoSoftware.pdf)
 
--   **Class:** Data Structure Analysis
+-   **Class:** CSCI 315 Data Structure Analysis
 -   **Grade:** A
 
 ### [The Ethics of Privacy and Data Handling in Computer Science](/pdf/dataProtection.pdf)
 
--   **Class:** Object Oriented Programming
+-   **Class:** CSCI 325 Object Oriented Programming
 -   **Grade:** A
 
 ### [The Ethics of Artificial Intelligence](/pdf/AI.pdf)
 
--   **Class:** Survey of Scripting Languages
+-   **Class:** CSCI 301 Survey of Scripting Languages
 -   **Grade:** A
 
 ---
@@ -53,14 +53,14 @@ Presentations
 
 ### [Journey to Cura live demo](/pdf/journey to cure demo.pptx)
 
-- **Class:** Object Oriented Programming
+- **Class:** CSCI 325 Object Oriented Programming
 - **Grade:** A
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Noah's Ark live demo](/pdf/sample_presentation.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class:** CSCI 215 Programming in Alice
+- **Grade:** A
 
 ---
 
