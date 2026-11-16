@@ -6,8 +6,8 @@ UDP Buddy Chat
 -   **Class:** Applied Networking
 -   **Grade:** A
 -   **Language(s):** C++ 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Source Code Repository:** [Buddy Chat](https://github.com/Satchmmorgan/APN_2026.git)  
+    (Please [email me](mailto:SMMorgan@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
@@ -26,10 +26,10 @@ g++ buddy.cpp -o chat
 
 This program is ran with a Command Line Interface, so messages are both sent and received straight from the terminal. Users will be asked for information including the desired "buddy" computers IP and port.
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/newComp2.PNG)  
 Fig 1. The perspective of one computer during a chat.
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/computer1.PNG)  
 Fig 2. The same chat from the second computers perspective.
 
 ## 3. Additional Considerations
