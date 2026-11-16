@@ -57,7 +57,7 @@ Presentations
 - **Grade:** A
 
 
-### [Noah's Ark live demo](/pdf/sample_presentation.pdf)
+### [Noah's Ark live demo](/pdf/NoahsArk.pptx)
 
 - **Class:** CSCI 215 Programming in Alice
 - **Grade:** A
