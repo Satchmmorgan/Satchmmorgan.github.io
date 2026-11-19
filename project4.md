@@ -6,7 +6,7 @@ UDP Buddy Chat
 -   **Class:** Applied Networking
 -   **Grade:** A
 -   **Language(s):** C++ 
--   **Source Code Repository:** [Buddy Chat](https://github.com/Satchmmorgan/APN_2026.git)  
+-   **Source Code Repository:** [Buddy Chat](https://github.com/Satchmmorgan/Projects-for-Portfolio.git)  
     (Please [email me](mailto:SMMorgan@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
