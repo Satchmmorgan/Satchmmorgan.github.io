@@ -6,7 +6,7 @@ Minimum Coverage Overlap
 -   **Class:** Data Structure Analysis
 -   **Grade:** A
 -   **Language(s):** C++ 
--   **Source Code Repository:** [Data Structures](https://github.com/Satchmmorgan/Projects-for-Portfolio.git)  
+-   **Source Code Repository:** [Min Overlap](https://github.com/Satchmmorgan/Projects-for-Portfolio.git)  
     (Please [email me](mailto:SMMorgan@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
