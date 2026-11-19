@@ -6,7 +6,7 @@ The Journey to Cura
 -   **Class:** Object Oriented Programming
 -   **Grade:** A
 -   **Language(s):** Java 
--   **Source Code Repository:** [TeamRocket](https://github.com/Satchmmorgan/Projects-for-Portfolio.git)  
+-   **Source Code Repository:** [Journey To Cura](https://github.com/Satchmmorgan/Projects-for-Portfolio.git)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
