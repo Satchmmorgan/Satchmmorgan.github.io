@@ -6,7 +6,7 @@ Python Web Scraper
 -   **Class:** Survey of Scripting Languages
 -   **Grade:** A
 -   **Language(s):** Python 
--   **Source Code Repository:** [Scripting-Languages](https://github.com/Satchmmorgan/Projects-for-Portfolio.git)  
+-   **Source Code Repository:** [Job Scraper](https://github.com/Satchmmorgan/Projects-for-Portfolio.git)  
     (Please [email me](mailto:SMMorgan@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
